@@ -1,0 +1,1051 @@
+{
+	"list": [
+		{
+			"type": "treeSelect",
+			"label": "主题分类",
+			"icon": "icon-tree",
+			"options": {
+				"disabled": false,
+				"multiple": false,
+				"hidden": false,
+				"clearable": true,
+				"showSearch": true,
+				"treeCheckable": false,
+				"placeholder": "请选择主题分类",
+				"dynamicKey": "",
+				"dynamic": false,
+				"options": [
+					{
+						"value": "组织机构",
+						"label": "组织机构",
+						"children": [
+							{
+								"value": "政府",
+								"label": "政府"
+							},
+							{
+								"value": "政府办公厅",
+								"label": "政府办公厅"
+							},
+							{
+								"value": "政府组成部门",
+								"label": "政府组成部门"
+							},
+							{
+								"value": "政府直属特设机构",
+								"label": "政府直属特设机构"
+							},
+							{
+								"value": "政府直属机构",
+								"label": "政府直属机构"
+							},
+							{
+								"value": "政府办事机构",
+								"label": "政府办事机构"
+							},
+							{
+								"value": "政府部门管理机构",
+								"label": "政府部门管理机构"
+							},
+							{
+								"value": "政府议事协调机构",
+								"label": "政府议事协调机构"
+							},
+							{
+								"value": "政府直属事业单位",
+								"label": "政府直属事业单位"
+							},
+							{
+								"value": "组织机构-其他",
+								"label": "组织机构-其他"
+							}
+						]
+					},
+					{
+						"value": "综合政务",
+						"label": "综合政务",
+						"children": [
+							{
+								"value": "政务公开",
+								"label": "政务公开"
+							},
+							{
+								"value": "政务督查",
+								"label": "政务督查"
+							},
+							{
+								"value": "应急管理",
+								"label": "应急管理"
+							},
+							{
+								"value": "电子政务",
+								"label": "电子政务"
+							},
+							{
+								"value": "文秘工作",
+								"label": "文秘工作"
+							},
+							{
+								"value": "保密工作",
+								"label": "保密工作"
+							},
+							{
+								"value": "信访",
+								"label": "信访"
+							},
+							{
+								"value": "参事、文史",
+								"label": "参事、文史"
+							},
+							{
+								"value": "综合政务-其他",
+								"label": "综合政务-其他"
+							}
+						]
+					},
+					{
+						"value": "国民经济管理、国有资产监管",
+						"label": "国民经济管理、国有资产监管",
+						"children": [
+							{
+								"value": "宏观经济",
+								"label": "宏观经济"
+							},
+							{
+								"value": "经济体制改革",
+								"label": "经济体制改革"
+							},
+							{
+								"value": "统计",
+								"label": "统计"
+							},
+							{
+								"value": "物价",
+								"label": "物价"
+							},
+							{
+								"value": "国有资产监管",
+								"label": "国有资产监管"
+							},
+							{
+								"value": "重大建设项目",
+								"label": "重大建设项目"
+							},
+							{
+								"value": "国民经济管理、国有资产监管-其他",
+								"label": "国民经济管理、国有资产监管-其他"
+							}
+						]
+					},
+					{
+						"value": "财政、金融、审计",
+						"label": "财政、金融、审计",
+						"children": [
+							{
+								"value": "财政",
+								"label": "财政"
+							},
+							{
+								"value": "税务",
+								"label": "税务"
+							},
+							{
+								"value": "银行",
+								"label": "银行"
+							},
+							{
+								"value": "货币(含外汇)",
+								"label": "货币(含外汇)"
+							},
+							{
+								"value": "证券",
+								"label": "证券"
+							},
+							{
+								"value": "保险",
+								"label": "保险"
+							},
+							{
+								"value": "社会信用体系建设",
+								"label": "社会信用体系建设"
+							},
+							{
+								"value": "审计",
+								"label": "审计"
+							},
+							{
+								"value": "财政、金融、审计-其他",
+								"label": "财政、金融、审计-其他"
+							}
+						]
+					},
+					{
+						"value": "国土资源、能源",
+						"label": "国土资源、能源",
+						"children": [
+							{
+								"value": "土地",
+								"label": "土地"
+							},
+							{
+								"value": "矿产",
+								"label": "矿产"
+							},
+							{
+								"value": "水资源",
+								"label": "水资源"
+							},
+							{
+								"value": "海洋",
+								"label": "海洋"
+							},
+							{
+								"value": "煤炭",
+								"label": "煤炭"
+							},
+							{
+								"value": "石油与天燃气",
+								"label": "石油与天燃气"
+							},
+							{
+								"value": "电力",
+								"label": "电力"
+							},
+							{
+								"value": "国土资源、能源-其他",
+								"label": "国土资源、能源-其他"
+							}
+						]
+					},
+					{
+						"value": "农业、林业、水利",
+						"label": "农业、林业、水利",
+						"children": [
+							{
+								"value": "农业、畜牧业、渔业",
+								"label": "农业、畜牧业、渔业"
+							},
+							{
+								"value": "林业",
+								"label": "林业"
+							},
+							{
+								"value": "水利",
+								"label": "水利"
+							},
+							{
+								"value": "农业、林业、水利-其他",
+								"label": "农业、林业、水利-其他"
+							}
+						]
+					},
+					{
+						"value": "工业、交通",
+						"label": "工业、交通",
+						"children": [
+							{
+								"value": "机械制造与重工业",
+								"label": "机械制造与重工业"
+							},
+							{
+								"value": "轻工纺织",
+								"label": "轻工纺织"
+							},
+							{
+								"value": "化工",
+								"label": "化工"
+							},
+							{
+								"value": "国防工业",
+								"label": "国防工业"
+							},
+							{
+								"value": "航天、航空",
+								"label": "航天、航空"
+							},
+							{
+								"value": "信息产业(含电信)",
+								"label": "信息产业(含电信)"
+							},
+							{
+								"value": "公路",
+								"label": "公路"
+							},
+							{
+								"value": "水运",
+								"label": "水运"
+							},
+							{
+								"value": "铁路",
+								"label": "铁路"
+							},
+							{
+								"value": "民航",
+								"label": "民航"
+							},
+							{
+								"value": "邮政",
+								"label": "邮政"
+							},
+							{
+								"value": "工业、交通-其他",
+								"label": "工业、交通-其他"
+							}
+						]
+					},
+					{
+						"value": "商贸、海关、旅游",
+						"label": "商贸、海关、旅游",
+						"children": [
+							{
+								"value": "对外经贸合作",
+								"label": "对外经贸合作"
+							},
+							{
+								"value": "国内贸易(含供销)",
+								"label": "国内贸易(含供销)"
+							},
+							{
+								"value": "海关",
+								"label": "海关"
+							},
+							{
+								"value": "检验、检疫",
+								"label": "检验、检疫"
+							},
+							{
+								"value": "旅游",
+								"label": "旅游"
+							},
+							{
+								"value": "商贸、海关、旅游-其他",
+								"label": "商贸、海关、旅游-其他"
+							}
+						]
+					},
+					{
+						"value": "市场监管、安全生产监管",
+						"label": "市场监管、安全生产监管",
+						"children": [
+							{
+								"value": "工商",
+								"label": "工商"
+							},
+							{
+								"value": "质量监督",
+								"label": "质量监督"
+							},
+							{
+								"value": "标准",
+								"label": "标准"
+							},
+							{
+								"value": "食品药品监管",
+								"label": "食品药品监管"
+							},
+							{
+								"value": "安全生产监管",
+								"label": "安全生产监管"
+							},
+							{
+								"value": "市场监管、安全生产监管-其他",
+								"label": "市场监管、安全生产监管-其他"
+							}
+						]
+					},
+					{
+						"value": "城乡建设、环境保护",
+						"label": "城乡建设、环境保护",
+						"children": [
+							{
+								"value": "城市规划",
+								"label": "城市规划"
+							},
+							{
+								"value": "城乡建设(含住房)",
+								"label": "城乡建设(含住房)"
+							},
+							{
+								"value": "环境监测、保护和治理",
+								"label": "环境监测、保护和治理"
+							},
+							{
+								"value": "节能与资源综合利用",
+								"label": "节能与资源综合利用"
+							},
+							{
+								"value": "气象、水文、测绘、地震",
+								"label": "气象、水文、测绘、地震"
+							},
+							{
+								"value": "城乡建设、环境保护-其他",
+								"label": "城乡建设、环境保护-其他"
+							}
+						]
+					},
+					{
+						"value": "科技、教育",
+						"label": "科技、教育",
+						"children": [
+							{
+								"value": "科技",
+								"label": "科技"
+							},
+							{
+								"value": "教育",
+								"label": "教育"
+							},
+							{
+								"value": "知识产权",
+								"label": "知识产权"
+							},
+							{
+								"value": "科技、教育-其他",
+								"label": "科技、教育-其他"
+							}
+						]
+					},
+					{
+						"value": "文化、广电、新闻出版",
+						"label": "文化、广电、新闻出版",
+						"children": [
+							{
+								"value": "文化",
+								"label": "文化"
+							},
+							{
+								"value": "文物",
+								"label": "文物"
+							},
+							{
+								"value": "新闻出版",
+								"label": "新闻出版"
+							},
+							{
+								"value": "广播、电影、电视",
+								"label": "广播、电影、电视"
+							},
+							{
+								"value": "文化、广电、新闻出版-其他",
+								"label": "文化、广电、新闻出版-其他"
+							}
+						]
+					},
+					{
+						"value": "卫生、体育",
+						"label": "卫生、体育",
+						"children": [
+							{
+								"value": "卫生",
+								"label": "卫生"
+							},
+							{
+								"value": "医药管理",
+								"label": "医药管理"
+							},
+							{
+								"value": "体育",
+								"label": "体育"
+							},
+							{
+								"value": "卫生、体育-其他",
+								"label": "卫生、体育-其他"
+							}
+						]
+					},
+					{
+						"value": "人口与计划生育、妇女儿童工作",
+						"label": "人口与计划生育、妇女儿童工作",
+						"children": [
+							{
+								"value": "人口与计划生育",
+								"label": "人口与计划生育"
+							},
+							{
+								"value": "妇女儿童",
+								"label": "妇女儿童"
+							},
+							{
+								"value": "人口与计划生育、妇女儿童工作-其他",
+								"label": "人口与计划生育、妇女儿童工作-其他"
+							}
+						]
+					},
+					{
+						"value": "劳动、人事、监察",
+						"label": "劳动、人事、监察",
+						"children": [
+							{
+								"value": "劳动就业",
+								"label": "劳动就业"
+							},
+							{
+								"value": "社会保障",
+								"label": "社会保障"
+							},
+							{
+								"value": "人事工作",
+								"label": "人事工作"
+							},
+							{
+								"value": "军转安置",
+								"label": "军转安置"
+							},
+							{
+								"value": "监察",
+								"label": "监察"
+							},
+							{
+								"value": "纠正行业不正之风",
+								"label": "纠正行业不正之风"
+							},
+							{
+								"value": "劳动、人事、监察-其他",
+								"label": "劳动、人事、监察-其他"
+							}
+						]
+					},
+					{
+						"value": "公安、安全、司法",
+						"label": "公安、安全、司法",
+						"children": [
+							{
+								"value": "公安",
+								"label": "公安"
+							},
+							{
+								"value": "国家安全",
+								"label": "国家安全"
+							},
+							{
+								"value": "司法",
+								"label": "司法"
+							},
+							{
+								"value": "公安、安全、司法-其他",
+								"label": "公安、安全、司法-其他"
+							}
+						]
+					},
+					{
+						"value": "民政、扶贫、救灾",
+						"label": "民政、扶贫、救灾",
+						"children": [
+							{
+								"value": "减灾救灾",
+								"label": "减灾救灾"
+							},
+							{
+								"value": "优抚安置",
+								"label": "优抚安置"
+							},
+							{
+								"value": "社会福利",
+								"label": "社会福利"
+							},
+							{
+								"value": "行政区划与地名",
+								"label": "行政区划与地名"
+							},
+							{
+								"value": "社团管理",
+								"label": "社团管理"
+							},
+							{
+								"value": "扶贫",
+								"label": "扶贫"
+							},
+							{
+								"value": "民政、扶贫、救灾-其他",
+								"label": "民政、扶贫、救灾-其他"
+							}
+						]
+					},
+					{
+						"value": "民族、宗教",
+						"label": "民族、宗教",
+						"children": [
+							{
+								"value": "民族事务",
+								"label": "民族事务"
+							},
+							{
+								"value": "宗教事务",
+								"label": "宗教事务"
+							}
+						]
+					},
+					{
+						"value": "对外事务",
+						"label": "对外事务",
+						"children": [
+							{
+								"value": "外交、外事",
+								"label": "外交、外事"
+							},
+							{
+								"value": "国际条约、国际组织",
+								"label": "国际条约、国际组织"
+							},
+							{
+								"value": "对外事务-其他",
+								"label": "对外事务-其他"
+							}
+						]
+					},
+					{
+						"value": "港澳台侨工作",
+						"label": "港澳台侨工作",
+						"children": [
+							{
+								"value": "港澳工作",
+								"label": "港澳工作"
+							},
+							{
+								"value": "对台工作",
+								"label": "对台工作"
+							},
+							{
+								"value": "侨务工作",
+								"label": "侨务工作"
+							}
+						]
+					},
+					{
+						"value": "国防",
+						"label": "国防",
+						"children": [
+							{
+								"value": "国防建设",
+								"label": "国防建设"
+							},
+							{
+								"value": "国防动员",
+								"label": "国防动员"
+							}
+						]
+					},
+					{
+						"value": "其他",
+						"label": "其他"
+					}
+				]
+			},
+			"model": "themecategory",
+			"key": "treeSelect_1668439631622",
+			"help": "",
+			"rules": [
+				{
+					"required": true,
+					"message": "请选择主题分类"
+				}
+			]
+		},
+		{
+			"type": "select",
+			"label": "公文种类",
+			"options": {
+				"width": "100%",
+				"multiple": false,
+				"disabled": false,
+				"clearable": false,
+				"hidden": false,
+				"placeholder": "请选择",
+				"dynamicKey": "",
+				"dynamic": false,
+				"options": [
+					{
+						"value": "决议",
+						"label": "决议"
+					},
+					{
+						"value": "决定",
+						"label": "决定"
+					},
+					{
+						"value": "命令（令）",
+						"label": "命令（令）"
+					},
+					{
+						"value": "公报",
+						"label": "公报"
+					},
+					{
+						"value": "公告",
+						"label": "公告"
+					},
+					{
+						"value": "通告",
+						"label": "通告"
+					},
+					{
+						"value": "意见",
+						"label": "意见"
+					},
+					{
+						"value": "通知",
+						"label": "通知"
+					},
+					{
+						"value": "通报",
+						"label": "通报"
+					},
+					{
+						"value": "报告",
+						"label": "报告"
+					},
+					{
+						"value": "请示",
+						"label": "请示"
+					},
+					{
+						"value": "批复",
+						"label": "批复"
+					},
+					{
+						"value": "议案",
+						"label": "议案"
+					},
+					{
+						"value": "函",
+						"label": "函"
+					},
+					{
+						"value": "纪要",
+						"label": "纪要"
+					},
+					{
+						"value": "办法",
+						"label": "办法"
+					},
+					{
+						"value": "规定",
+						"label": "规定"
+					},
+					{
+						"value": "方案",
+						"label": "方案"
+					},
+					{
+						"value": "其他",
+						"label": "其他"
+					}
+				],
+				"showSearch": false,
+				"defaultValue": "0"
+			},
+			"model": "documenttype",
+			"key": "select_1663914505729",
+			"rules": [
+				{
+					"required": true,
+					"message": "必填项"
+				}
+			]
+		},
+		{
+			"type": "input",
+			"label": "规范性文件标识",
+			"options": {
+				"type": "text",
+				"width": "100%",
+				"defaultValue": "",
+				"placeholder": "请输入规范性文件标识",
+				"clearable": false,
+				"maxLength": null,
+				"hidden": false,
+				"disabled": false
+			},
+			"model": "AQ",
+			"key": "input_1663031524901",
+			"rules": [
+				{
+					"required": true,
+					"message": "必填项"
+				}
+			]
+		},
+		{
+			"type": "input",
+			"label": "发文机关代字",
+			"options": {
+				"type": "text",
+				"width": "100%",
+				"defaultValue": "",
+				"placeholder": "请输入规范性文件标识",
+				"clearable": false,
+				"maxLength": null,
+				"hidden": false,
+				"disabled": false
+			},
+			"model": "first",
+			"key": "input_1663031565929",
+			"rules": [
+				{
+					"required": true,
+					"message": "必填项"
+				}
+			]
+		},
+		{
+			"type": "input",
+			"label": "发文年份",
+			"options": {
+				"type": "text",
+				"width": "100%",
+				"defaultValue": "",
+				"placeholder": "请输入规范性文件标识",
+				"clearable": false,
+				"maxLength": null,
+				"hidden": false,
+				"disabled": false
+			},
+			"model": "year",
+			"key": "input_1663031592822",
+			"rules": [
+				{
+					"required": true,
+					"message": "必填项"
+				}
+			],
+			"datatype": "IntField"
+		},
+		{
+			"type": "input",
+			"label": "文件顺序号",
+			"options": {
+				"type": "text",
+				"width": "100%",
+				"defaultValue": "",
+				"placeholder": "请输入号",
+				"clearable": false,
+				"maxLength": null,
+				"hidden": false,
+				"disabled": false
+			},
+			"model": "number",
+			"key": "input_1663031624644",
+			"rules": [
+				{
+					"required": true,
+					"message": "必填项"
+				}
+			],
+			"datatype": "IntField"
+		},
+		{
+			"type": "select",
+			"label": "有效性",
+			"options": {
+				"width": "100%",
+				"multiple": false,
+				"disabled": false,
+				"clearable": false,
+				"hidden": false,
+				"placeholder": "请选择有效性",
+				"dynamicKey": "",
+				"dynamic": false,
+				"options": [
+					{
+						"value": "有效",
+						"label": "有效"
+					},
+					{
+						"value": "失效",
+						"label": "失效"
+					}
+				],
+				"showSearch": false,
+				"defaultValue": "有效"
+			},
+			"model": "power",
+			"key": "select_1663031964375",
+			"rules": [
+				{
+					"required": true,
+					"message": "必填项"
+				}
+			]
+		},
+		{
+			"type": "date",
+			"label": "文件废止",
+			"options": {
+				"width": "100%",
+				"defaultValue": "",
+				"rangeDefaultValue": [],
+				"range": false,
+				"showTime": false,
+				"disabled": false,
+				"hidden": false,
+				"clearable": false,
+				"placeholder": "请选择文件失效时间",
+				"rangePlaceholder": [
+					"开始时间",
+					"结束时间"
+				],
+				"format": "YYYY-MM-DD"
+			},
+			"model": "feizhi",
+			"key": "date_1663032078674",
+			"rules": [
+				{
+					"required": false,
+					"message": "必填项"
+				}
+			]
+		},
+		{
+			"type": "input",
+			"label": "废止原因",
+			"options": {
+				"type": "text",
+				"width": "100%",
+				"defaultValue": "",
+				"placeholder": "请输入",
+				"clearable": false,
+				"maxLength": null,
+				"hidden": false,
+				"disabled": false
+			},
+			"model": "feizhi_reason",
+			"key": "input_1663032194907",
+			"rules": [
+				{
+					"required": false,
+					"message": "必填项"
+				}
+			]
+		},
+		{
+			"span": 12,
+			"list": [
+				{
+					"type": "date",
+					"label": "效力时间",
+					"icon": "icon-calendar",
+					"options": {
+						"width": "100%",
+						"defaultValue": "",
+						"rangeDefaultValue": [],
+						"range": true,
+						"showTime": false,
+						"disabled": false,
+						"hidden": false,
+						"clearable": false,
+						"placeholder": "请选择",
+						"rangePlaceholder": [
+							"开始时间",
+							"结束时间"
+						],
+						"format": "YYYY-MM-DD"
+					},
+					"model": "power_time",
+					"key": "date_1608168420983",
+					"rules": [
+						{
+							"required": true,
+							"message": "必填项"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "input",
+			"label": "题注",
+			"options": {
+				"type": "text",
+				"width": "100%",
+				"defaultValue": "无",
+				"placeholder": "请输入",
+				"clearable": false,
+				"maxLength": null,
+				"hidden": false,
+				"disabled": false
+			},
+			"model": "otherInfo3",
+			"key": "input_1663915513925",
+			"rules": [
+				{
+					"required": true,
+					"message": "必填项"
+				}
+			]
+		},
+		{
+			"type": "select",
+			"label": "附注",
+			"options": {
+				"width": "100%",
+				"multiple": false,
+				"disabled": false,
+				"clearable": false,
+				"hidden": false,
+				"placeholder": "请选择",
+				"dynamicKey": "",
+				"dynamic": false,
+				"options": [
+					{
+						"value": "0",
+						"label": "此件公开发布"
+					},
+					{
+						"value": "1",
+						"label": "此件有删减"
+					}
+				],
+				"showSearch": false,
+				"defaultValue": ""
+			},
+			"model": "annotation",
+			"key": "select_1663915351464",
+			"rules": [
+				{
+					"required": true,
+					"message": "必填项"
+				}
+			]
+		},
+		{
+			"type": "date",
+			"label": "效力时间",
+			"icon": "icon-calendar",
+			"options": {
+				"width": "100%",
+				"defaultValue": "",
+				"rangeDefaultValue": [],
+				"range": true,
+				"showTime": false,
+				"disabled": false,
+				"hidden": false,
+				"clearable": false,
+				"placeholder": "请选择",
+				"rangePlaceholder": [
+					"开始时间",
+					"结束时间"
+				],
+				"format": "YYYY-MM-DD"
+			},
+			"model": "power_time",
+			"key": "date_1664153305210",
+			"rules": [
+				{
+					"required": true,
+					"message": "必填项"
+				}
+			]
+		}
+	],
+	"config": {
+		"layout": "horizontal",
+		"labelCol": {
+			"span": 4
+		},
+		"wrapperCol": {
+			"span": 18
+		},
+		"hideRequiredMark": false,
+		"customStyle": ""
+	}
+}

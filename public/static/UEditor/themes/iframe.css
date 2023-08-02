@@ -1,0 +1,12 @@
+/*可以在这里添加你自己的css*/
+
+.suncool-anchor{
+    cursor: auto;
+    display: inline-block;
+    height: 16px;
+    width: 16px;
+    background: url('/static/UEditor/themes/default/images/anchor.gif') no-repeat scroll left center transparent;
+}
+.missensitive{
+    color: red;
+}

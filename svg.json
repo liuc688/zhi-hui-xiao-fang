@@ -1,0 +1,58 @@
+{
+    "photo": [
+        {
+            "type": "img",
+            "name": "微信图片_20210909085648.jpg",
+            "status": "done",
+            "uid": "vc-upload-1640740648115-2",
+            "url": "/resources/public/20211229/61cbbbea82706c1458885753.jpg"
+        }
+    ],
+    "user": {
+        "realname": "asd",
+        "mobile": "asd",
+        "identity": "asd",
+        "sex": "男",
+        "birthday": "2021-12-10 09:37:42",
+        "email": "asd",
+        "marriage": "已婚",
+        "political": "普通居民",
+        "house": "adasda",
+        "address": "asdadad"
+    },
+    "parent": "6087a9d99f2829ea8ff49570",
+    "tutor": "6087a9d99f2829ea8ff49570",
+    "sntrances": {
+        "jnumber": 1,
+        "jstatus": "61c5913c82706c145888558d",
+        "department": "61c591b682706c1458885590",
+        "post": "61c591e982706c1458885591",
+        "position": "61c5923a82706c1458885596",
+        "inductiontime": "2021-12-29 09:37:42",
+        "regulartime": "2021-12-29 09:37:42",
+        "contractstarttime": "2021-12-29 09:37:42",
+        "contractendtime": "2021-12-29 09:37:42",
+        "socialstarttime": "2021-12-29 09:37:42",
+        "socialendtime": "2021-12-29 09:37:42",
+        "accident": "sdasa",
+        "businesscard": "asdasd"
+    },
+    "administration": {
+        "firsttest": "",
+        "finaltest": ""
+    },
+    "design": {
+        "ppttest": "",
+        "pstest": "",
+        "typesetting": ""
+    },
+    "finance": {
+        "test": ""
+    },
+    "business": {
+        "overall": ""
+    },
+    "fields": {
+        "input_1640678249760": ""
+    }
+}
